@@ -1,2 +1,4 @@
 /build/
 /target/
+.idea/
+jsf_basics.iml
